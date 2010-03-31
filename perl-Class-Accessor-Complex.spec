@@ -1,9 +1,9 @@
 %define upstream_name    Class-Accessor-Complex
-%define upstream_version 1.100820
+%define upstream_version 1.100880
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 2
+Release:    %mkrel 1
 
 Summary:    Arrays, hashes, booleans, integers, sets and more
 License:    GPL+ or Artistic
